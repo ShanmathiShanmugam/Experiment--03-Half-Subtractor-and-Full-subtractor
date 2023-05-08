@@ -60,6 +60,7 @@ endmodule
 ## Output:
 
 ## Truthtable
+
 Half Subtractor:
 ![image](https://user-images.githubusercontent.com/121243595/236870344-de646b34-019c-412d-8b63-aa5869293ac3.png)
 
@@ -68,11 +69,19 @@ Full Subtractor:
 
 ##  RTL realization
 
+Half Subtractor::
 ![image](https://user-images.githubusercontent.com/121243595/236870404-3ea7b572-0fa8-4f4c-9f1b-dc252acef772.png)
+
+Full Subtractor:
+![image](https://user-images.githubusercontent.com/121243595/236875452-b0a6fa6c-b259-475f-a0ad-e986348172a1.png)
 
 ## Timing diagram 
 
+Half Subtractor:
 ![image](https://user-images.githubusercontent.com/121243595/236870481-5fa3967f-5eb3-4ed8-af5e-56348984c59e.png)
+
+Full Subtractor:
+![image](https://user-images.githubusercontent.com/121243595/236875494-1830b5e2-5c9f-41fa-acb5-a24da64bfbe1.png)
 
 ## Result:
 Thus the half subtractor and full subtractor circuits are designed and the truth tables is verified using quartus software.
